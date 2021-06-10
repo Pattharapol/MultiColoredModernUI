@@ -1,0 +1,14 @@
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.exe.config
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.exe
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\bin\Debug\MultiColoredModernUI.pdb
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.FormMainMenu.resources
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Properties.Resources.resources
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.Cache
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.exe
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.pdb
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormCustomer.resources
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormNotification.resources
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormOrders.resources
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormProducts.resources
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormReporting.resources
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\MultiColoredModernUI\MultiColoredModernUI\obj\Debug\MultiColoredModernUI.Forms.FormSetting.resources
