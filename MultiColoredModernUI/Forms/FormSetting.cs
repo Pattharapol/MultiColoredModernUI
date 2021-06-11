@@ -29,11 +29,10 @@ namespace MultiColoredModernUI.Forms
                     btn.ForeColor = Color.White;
                     btn.FlatStyle = FlatStyle.Flat;
                     btn.FlatAppearance.BorderSize = 0;
-                    btn.FlatAppearance.BorderColor = ThemeColor.SecondaryColor;
-
+                    btn.FlatAppearance.BorderColor = ThemeColor.PrimaryColor;
                 }
             }
-            label4.ForeColor = ThemeColor.SecondaryColor;
+            label4.ForeColor = ThemeColor.PrimaryColor;
             label5.ForeColor = ThemeColor.PrimaryColor;
         }
     }
